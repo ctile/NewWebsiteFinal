@@ -43,8 +43,9 @@ nav a:link {
   border-bottom: none;
 }
 nav {
-  background-image: url("../src/home/images/background.png");
+  background-image: url("/src/home/images/background.png");
   background-attachment: fixed;
+  background-repeat: repeat-x;
 }
 
 #moto {
