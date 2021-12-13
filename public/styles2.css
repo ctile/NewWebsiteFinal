@@ -1,19 +1,13 @@
-#moto p {
-  font-family: courier;
+.section p {
+  font-family: "Courier New", Courier, monospace;
 }
-#trails p {
-  font-family: courier;
-}
-#ebike p {
-  font-family: courier;
-}
-#landing ul {
-  font-family: courier;
+.landing ul {
+  font-family: "Courier New", Courier, monospace;
 }
 aside p {
-  font-family: courier;
+  font-family: "Courier New", Courier, monospace;
 }
 nav {
-  font-family: courier;
+  font-family: "Courier New", Courier, monospace;
   font-size: 125%;
 }

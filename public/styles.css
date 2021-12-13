@@ -105,13 +105,13 @@ ul {
   padding: 0px 50% 0px 45%;
 }
 
-.racing {
+#racing {
   font-weight: bold;
 }
-.power {
+#power {
   font-weight: bold;
 }
-.carbon {
+#carbon {
   color: rgb(0, 128, 0);
   font-weight: bold;
 }

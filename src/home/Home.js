@@ -51,7 +51,7 @@ function Home() {
               />
               <p>
                 Enter the world of{" "}
-                <span class="racing">
+                <span id="racing">
                   <em>competitive</em> racing
                 </span>
                 . Motocross dirt bikes are geared towards racing and track
@@ -78,14 +78,13 @@ function Home() {
                 pageName="trail"
               />
               <p>
-                Like riding trails near the{" "}
-                <span class="power">power lines?</span> Trail bikes are geared
-                towards off-road riding, with more focus on slower spead
-                technical riding. Here you will find an unordered list of the
-                most reputable brands in the industry. These links will take you
-                directly to the exact location on their website for trail bikes,
-                saving you search time! Take a look at each website to find the
-                best trail bike for you.
+                Like riding trails near the <span id="power">power lines?</span>{" "}
+                Trail bikes are geared towards off-road riding, with more focus
+                on slower spead technical riding. Here you will find an
+                unordered list of the most reputable brands in the industry.
+                These links will take you directly to the exact location on
+                their website for trail bikes, saving you search time! Take a
+                look at each website to find the best trail bike for you.
               </p>
             </section>
 
@@ -104,8 +103,8 @@ function Home() {
                 pageName="ebike"
               />
               <p>
-                Concerned about <span class="carbon">carbon footprint?</span>{" "}
-                Lets dive into the eletric bikes of the moto world. Eletric dirt
+                Concerned about <span id="carbon">carbon footprint?</span> Lets
+                dive into the eletric bikes of the moto world. Eletric dirt
                 bikes are new to the moto-scene. Here you will find an unordered
                 list of the most reputable brands in the industry. These links
                 will take you directly to the exact location on their website
