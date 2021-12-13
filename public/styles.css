@@ -45,7 +45,6 @@ nav a:link {
 nav {
   background-image: url("../src/home/images/background.png");
   background-attachment: fixed;
-  background-repeat: repeat-x;
 }
 
 #moto {
