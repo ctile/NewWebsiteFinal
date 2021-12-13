@@ -37,7 +37,7 @@ function Home() {
       <div class="table">
         <div class="row">
           <div id="main" class="table-cell">
-            <section id="moto">
+            <section class="section">
               <Link to="moto/moto.html" title="Motocross Dirt Bikes">
                 <h2>Motocross</h2>
               </Link>
@@ -65,7 +65,7 @@ function Home() {
 
             <br />
 
-            <section id="trails">
+            <section class="section">
               <Link to="trail/trail.html" title="Trail Dirt Bikes">
                 <h2>Trail/Off-road</h2>
               </Link>
@@ -91,7 +91,7 @@ function Home() {
 
             <br />
 
-            <section id="ebike">
+            <section class="section">
               <Link to="ebike/ebike.html" title="Eletric Dirt Bikes">
                 <h2>E-Bikes</h2>
               </Link>

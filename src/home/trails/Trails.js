@@ -5,7 +5,7 @@ import ThumbnailLink from "../ThumbnailLink.js";
 
 function Trails() {
   return (
-    <section id="landing">
+    <section class="landing">
       <h1>MotoMania - Trail </h1>
       <ThumbnailLink
         lowResThumb={trailT}
