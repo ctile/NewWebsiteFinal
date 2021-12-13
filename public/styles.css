@@ -16,7 +16,7 @@ header {
   border-radius: 50px;
 }
 nav {
-  background-color: #09acf8;
+  background-color: rgba(9, 172, 248, 90%);
   position: sticky;
   top: 0;
   border: 4px dashed #a70909;
