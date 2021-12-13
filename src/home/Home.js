@@ -105,11 +105,11 @@ function Home() {
               <p>
                 Concerned about <span id="carbon">carbon footprint?</span> Lets
                 dive into the eletric bikes of the moto world. Eletric dirt
-                bikes are new to the moto-scene. Here you will find an unordered
-                list of the most reputable brands in the industry. These links
-                will take you directly to the exact location on their website
-                for ebikes, saving you search time! Take a look at each website
-                to find the best ebike for you.
+                bikes are new to the world of dirt bikes. Here you will find the
+                brands currently taking eletric leap. These links will take you
+                directly to the exact location on their website for ebikes,
+                saving you search time! Take a look at each website to find the
+                best ebike for you.
               </p>
             </section>
           </div>
@@ -149,16 +149,15 @@ function Home() {
             <br />
             <h3> Broke something? </h3>
             <p>
-              Looking for parts?{" "}
+              Looking for parts? Find all that you need at{" "}
               <Link
                 to={{
                   pathname: "https://www.rockymountainatvmc.com/parts/dirt-bike"
                 }}
                 target="same"
               >
-                RockyMountainATV
+                RockyMountainATV.
               </Link>
-              has a wide selection of parts for almost any bike you own!
             </p>
             <br />
             <br />
