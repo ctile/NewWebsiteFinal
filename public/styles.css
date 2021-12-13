@@ -42,6 +42,11 @@ nav a:link {
   font-weight: bold;
   border-bottom: none;
 }
+nav {
+  background-image: url("../src/home/images/background.png");
+  background-attachment: fixed;
+  background-repeat: repeat-x;
+}
 
 #moto {
   background-color: #1a2588;
